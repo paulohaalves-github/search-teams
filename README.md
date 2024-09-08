@@ -61,19 +61,8 @@ Paulo Alves
     * Criar um sistema de favoritos.
     * Melhorar a interface do usuário.
 
-**## Dicas para um README ainda melhor:**
-* **Imagens:** Adicione imagens ou capturas de tela para ilustrar a aplicação.
-* **Demonstração:** Se possível, crie um pequeno vídeo demonstrando o funcionamento da aplicação.
-* **Guia de contribuição:** Se você espera receber contribuições, crie um guia detalhado com as convenções de código e o processo de envio de pull requests.
-* **FAQ:** Responda às perguntas mais comuns sobre o projeto.
+**## Link para acessar o projeto: https://paulohaalves-github.github.io/search-teams/**
 
-**Lembre-se:** Um bom README é fundamental para que outros desenvolvedores entendam seu projeto e contribuam com ele.
-
-**Observação:** Adapte este README de acordo com as especificidades do seu projeto e as informações que você deseja compartilhar. 
-
-**Gostaria de adicionar mais alguma coisa ao README?** 
-
-**Algumas perguntas para te ajudar:**
 
 * Você gostaria de adicionar um guia de instalação mais detalhado?
 * Quais são as principais tecnologias que você utilizou e por quê?

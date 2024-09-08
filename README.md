@@ -61,12 +61,7 @@ Paulo Alves
     * Criar um sistema de favoritos.
     * Melhorar a interface do usuário.
 
+
+
 **## Link para acessar o projeto: https://paulohaalves-github.github.io/search-teams/**
 
-
-* Você gostaria de adicionar um guia de instalação mais detalhado?
-* Quais são as principais tecnologias que você utilizou e por quê?
-* Quais foram os maiores desafios que você enfrentou durante o desenvolvimento?
-* Quais são os seus planos futuros para o projeto?
-
-Com base nas suas respostas, posso te ajudar a criar um README ainda mais completo e informativo. 

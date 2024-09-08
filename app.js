@@ -25,7 +25,7 @@ async function pesquisarTime(){
   country.innerText = `País: ${pais}`;
   founded.innerText = `Fundação: ${fundacao}`;
 
-  img.innerHTML = logo;
+ 
   */
   // Inicializa uma string vazia para armazenar os resultados
   let resultado = "";

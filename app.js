@@ -2,10 +2,6 @@
 
 async function pesquisarTime(){
   const timeEscolhido = document.getElementById('timeEscolhido').value;
-  const name = document.getElementById('nameTime');
-  const country  = document.getElementById('country');
-  const founded = document.getElementById('founded');
-  const img = document.getElementById('escudo');
 
   let section = document.getElementById("resultados-pesquisa");
 
@@ -15,18 +11,7 @@ async function pesquisarTime(){
 
   console.log('Imprimindo resposta')
   console.log(dados)
-  /*
-  nome = response.response[0].team.name
-  fundacao = response.response[0].team.founded
-  pais = response.response[0].team.country
-  imagem = response.response[0].team.logo
 
-  name.innerText = nome;
-  country.innerText = `País: ${pais}`;
-  founded.innerText = `Fundação: ${fundacao}`;
-
- 
-  */
   // Inicializa uma string vazia para armazenar os resultados
   let resultado = "";
   if (response.results == 0){
